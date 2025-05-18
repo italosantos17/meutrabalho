@@ -102,10 +102,16 @@ td {
     
 }
 
-h3 {
+h3, h4 {
     text-align: center;
-    
+        
 }
+
+p {
+    margin: 10px;
+    text-indent: 30px;
+}
+
  div{
     text-align: center;
 }
@@ -115,6 +121,11 @@ a:hover {
   background-color:rgb(19, 123, 19);
   font-weight: bolder;
     
+}
+
+
+nav {
+    text-align: center;
 }
 
 .botao {
